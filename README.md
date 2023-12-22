@@ -1,5 +1,19 @@
 # 量化策略回测系统的设计与实现
+<br />
+<br />
+<br />
+<br />
+这是关于课程思考题的回答：如何设计《当代量化交易系统的原理与设计》
 
+<img width="422" alt="Screen Shot 2023-12-22 at 5 42 18 PM" src="https://github.com/Jennyw-108/pku_quant/assets/100659563/0dc8dc3b-ce66-4e33-bad5-8f9c4d75cf7e">
+
+<img width="442" alt="Screen Shot 2023-12-22 at 5 43 18 PM" src="https://github.com/Jennyw-108/pku_quant/assets/100659563/14a23722-591d-4718-b76e-8ef1b44acb47">
+
+以下是我设计的量化交易系统简介：
+<br />
+<br />
+<br />
+<br />
 **概述**
 <br />
 <br />根据期中时的构想，我原来计划运用面向对象编程，对数据读取、生成信号、回测信号、展示结果等方面分别做成不同的Class，并互通运用。每个Class下将会有相应的Function来支持其功能。
